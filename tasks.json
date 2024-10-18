@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "label": "dev",
+      "command": "npm run dev",
+      "port": 3000,
+      "preview": {
+        "port": 3000
+      }
+    }
+  ]
+}
